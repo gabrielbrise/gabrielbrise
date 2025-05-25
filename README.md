@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Gabriel Brise
 
-I'm a Full Stack Web Developer with a strong background in React.js, Node.js, TypeScript, and cloud infrastructure. Formerly an architect, I transitioned into software with a focus on clean, scalable, and user-centric web applications.
+I'm a Full Stack Web Developer with 5 years of experience and a strong background in React.js, Node.js, TypeScript, and cloud infrastructure. Formerly an architect, I transitioned into software with a focus on clean, scalable, and user-centric web applications.
 
 I've worked remotely for European companies, contributed to social media analytics platforms, and currently develop an indie tower defense game available on Steam.
 
@@ -31,26 +31,6 @@ I've worked remotely for European companies, contributed to social media analyti
 
 ### 🎮 Game Development  
 ![Unity](https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white) ![C Sharp](https://img.shields.io/badge/-C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
-
----
-
-## 💼 Work Experience
-
-### 🎮 Lily Brise Games (2022–Present)
-**Self-Employed Developer**  
-- Developing a PC/mobile tower defense game with Unity.
-
-### 🌐 Emplifi – Czech Republic (2020–2022)
-**Full Stack Developer**  
-- Built features for social analytics dashboards  
-- Refactored legacy code with proper design patterns  
-- Maintained CI pipelines, wrote unit tests (Mocha, Jest)  
-- Stack: React.js, Node.js, PostgreSQL, Elasticsearch
-
-### 🎓 Me Salva! – Brazil (2019–2020)
-**Web Developer (Junior to Mid-level)**  
-- Built frontend features and backend APIs  
-- Used Git, TypeScript, Node.js, React.js
 
 ## 📫 Let's Connect
 
